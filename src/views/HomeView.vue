@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div>
-    Supabase
+  <div class="">
+    Hello Supabase
   </div>
 </template>
